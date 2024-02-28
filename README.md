@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bruno
 
-I'm a passionate and aspiring data scientist with a background in biomedical engineering. My journey in the intersection of technology and healthcare has fueled my interest in leveraging data to derive meaningful insights and drive innovation. Welcome to my GitHub profile! 🚀
+I'm a passionate aspiring data scientist with a background in biomedical engineering. My journey in the intersection of technology and healthcare has fueled my interest in leveraging data to derive meaningful insights and drive innovation. Welcome to my GitHub profile! 🚀
 
 ## 🔬 Background
 
@@ -14,24 +14,24 @@ I'm a passionate and aspiring data scientist with a background in biomedical eng
 
 ## 🚀 Skills
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python
 - **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-Learn, TensorFlow, Keras
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Machine Learning:** Scikit-Learn
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Folium
 - **Database:** SQL
-- **Tools:** Jupyter, Git, GitHub
+- **Tools:** Jupyter Notebooks, GitHub
 
 ## 🌱 I’m currently learning
 
 I am constantly honing my skills and exploring new technologies. Currently, I am focused on deepening my knowledge in:
 
-- 📊 Advanced data visualization techniques
-- 🤖 Deep learning and neural networks
-- 📈 Big data technologies such as Apache Spark
+- 📊 Advanced data visualization techniques (Power BI)
+- 🤖 Deep learning and neural networks (Pytorch)
+- 📈 Big data technologies such as Spark
 
 ## 📊 Projects
 
-Here are some of the projects I'm proud of:
+Here are some projects where I practiced my skills:
 
 1. [Project 1: Short Description]
    - [Link to GitHub Repository]
