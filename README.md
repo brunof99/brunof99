@@ -23,11 +23,11 @@ I'm a passionate aspiring data scientist with a background in biomedical enginee
 
 ## 🌱 I’m currently learning
 
-I am constantly honing my skills and exploring new technologies. Currently, I am focused on deepening my knowledge in:
+I am constantly honing my skills and exploring new technologies. Currently, I am looking for deepening my knowledge in:
 
-- 📊 Advanced data visualization techniques (Power BI)
+- 📊 Advanced data visualization (Power BI)
 - 🤖 Deep learning and neural networks (Pytorch)
-- 📈 Big data technologies such as Spark
+- 📈 Big data technologies (Spark)
 
 ## 📊 Projects
 
