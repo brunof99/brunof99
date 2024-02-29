@@ -33,11 +33,8 @@ I am constantly honing my skills and exploring new technologies. Currently, I am
 
 Here are some projects where I practiced my skills:
 
-1. [Project 1: Short Description]
-   - [Link to GitHub Repository]
-
-2. [Project 2: Short Description]
-   - [Link to GitHub Repository]
+1. [Falcon 9 First Stage Landing Prediction (IBM Data Science Capstone)]
+   - [[Link to GitHub Repository](https://github.com/brunof99/IBM-Data-Science-Capstone-SpaceX)]
 
 Feel free to explore my repositories for more!
 
