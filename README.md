@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bruno
 
-I'm a passionate aspiring data scientist with a background in biomedical engineering. My journey in the intersection of technology and healthcare has fueled my interest in leveraging data to derive meaningful insights and drive innovation. Welcome to my GitHub profile! 🚀
+I'm a data analytics & AI enthusiast with a background in biomedical engineering. My journey in the intersection of technology and healthcare has fueled my interest in leveraging data to derive meaningful insights and drive innovation. Welcome to my GitHub profile! 🚀
 
 ## 🔬 Background
 
