@@ -36,11 +36,7 @@ Here are some projects where I practiced my skills:
 1. [Falcon 9 First Stage Landing Prediction (IBM Data Science Capstone)]
    - [[Check Repository](https://github.com/brunof99/IBM-Data-Science-Capstone-SpaceX)]
 
-Feel free to explore my repositories for more!
-
 ## 📫 Let's Connect!
-
-I'm always open to new opportunities, collaborations, and discussions. Let's connect and learn from each other:
 
 - 📧 Email: brunoferreira8a@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/brunof99/))
