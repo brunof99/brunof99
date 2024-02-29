@@ -39,7 +39,7 @@ Here are some projects where I practiced my skills:
 ## 📫 Let's Connect!
 
 - 📧 Email: brunoferreira8a@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/brunof99/))
+- 💼 LinkedIn: [[LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/brunof99/))]
 
 ## 👩‍💻 Looking for Opportunities
 
