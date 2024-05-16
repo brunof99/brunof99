@@ -33,7 +33,9 @@ I am constantly honing my skills and exploring new technologies. Currently, I am
 
 Here are some projects where I practiced my skills:
 
-1. [Falcon 9 First Stage Landing Prediction (IBM Data Science Capstone)]
+1. [[Exploring Healthcare Insights and Outcomes in Critical Care Patients Data](https://github.com/brunof99/Data-Driven-Healthcare-Insights)]
+   - [[Check Repository](https://github.com/brunof99/IBM-Data-Science-Capstone-SpaceX)]
+2. [Falcon 9 First Stage Landing Prediction (IBM Data Science Capstone)]
    - [[Check Repository](https://github.com/brunof99/IBM-Data-Science-Capstone-SpaceX)]
 
 ## 📫 Let's Connect!
