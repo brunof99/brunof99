@@ -10,7 +10,7 @@ I'm a biomedical engineer enthusiastic about harnessing the power of Data & AI t
 ## 🎓 Certifications
 
 - **IBM Data Science Professional Certificate:** Completed the IBM Data Science Professional Certificate, gaining expertise in various aspects of data science, including machine learning, data analysis, and data visualization.
-- **Johns Hopkins University - The Data Science of Health Informatics:** Successfully completed the course, gaining insights into the data science applications in health informatics.
+- **Johns Hopkins University - The Data Science of Health Informatics:** Successfully completed the course, gaining insights into the data science applications to healthcare data.
 
 ## 🚀 Skills
 
