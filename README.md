@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bruno
 
-I'm a data analytics & AI enthusiast with a background in biomedical engineering. My journey in the intersection of technology and healthcare has fueled my interest in leveraging data to derive meaningful insights and drive innovation. Welcome to my GitHub profile! 🚀
+I'm a biomedical engineer enthusiastic about harnessing the power of Data & AI to derive meaningful insights and drive innovation, especially in healthcare. I would describe me as analytical, creative, collaborative and resilient. Welcome to my GitHub profile! 🚀
 
 ## 🔬 Background
 
@@ -21,13 +21,15 @@ I'm a data analytics & AI enthusiast with a background in biomedical engineering
 - **Database:** SQL
 - **Tools:** Jupyter Notebooks, GitHub
 
-## 🌱 I’m currently learning
+## 🌱 I’m always learning
 
-I am constantly honing my skills and exploring new technologies. Currently, I am looking for deepening my knowledge in:
+📈 I'm constantly exploring new technologies and skills. I'm also currently interested in:
 
-- 📊 Advanced data visualization (Power BI)
-- 🤖 Deep learning and neural networks (Pytorch)
-- 📈 Big data technologies (Spark)
+- Deep Learning: Computer Vision, NLP, GenAI
+- Cloud services
+- Dashboarding / data visualization tools
+- Big data technologies
+
 
 ## 📊 Projects
 
@@ -47,4 +49,4 @@ Here are some projects where I practiced my skills:
 
 I am actively seeking opportunities in the field of data science and analytics. If you have any exciting projects or job opportunities, feel free to reach out!
 
-Thanks for visiting my GitHub profile. Happy coding! 🚀
+Thanks for visiting my GitHub profile! 🚀
